@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfPatientObj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PatientObj>
+    <Name>John</Name>
+    <Surname>doe</Surname>
+    <Gender>Male</Gender>
+    <ID>366410214</ID>
+    <Email>johndoe81@gmail.com</Email>
+    <Phone>0545628008</Phone>
+    <checkInDate>5/15/2020</checkInDate>
+    <Room>2</Room>
+    <Bed>5</Bed>
+    <Diagnosis>Anorexia</Diagnosis>
+  </PatientObj>
+</ArrayOfPatientObj>

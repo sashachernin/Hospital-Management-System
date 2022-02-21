@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfDoctorObj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DoctorObj>
+    <Name>Sigmund</Name>
+    <Surname>Freud</Surname>
+    <Address>Austria</Address>
+    <Email>freud@gmail.com</Email>
+    <Phone>054215478</Phone>
+    <ID>201444877</ID>
+    <Status>Working</Status>
+    <Date>7/1/2009</Date>
+  </DoctorObj>
+</ArrayOfDoctorObj>

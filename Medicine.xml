@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfMedicineObj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MedicineObj>
+    <Name>Dexamol</Name>
+    <Stock>250</Stock>
+    <Dosage>2 per day</Dosage>
+    <Supplier>Teva</Supplier>
+    <Cost>15</Cost>
+  </MedicineObj>
+</ArrayOfMedicineObj>
